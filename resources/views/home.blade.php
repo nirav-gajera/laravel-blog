@@ -21,7 +21,6 @@
                     </small>
                 @endif
             </p>
-
         </div>
     </div>
 @empty
