@@ -24,7 +24,6 @@
 
         </div>
     </div>
-
 @empty
 
 @endforelse
