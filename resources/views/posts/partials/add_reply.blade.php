@@ -2,7 +2,10 @@
 	{{ csrf_field() }}
 
 	<div class="input-group">
-	  <input name="new_reply" type="text" class="form-control" placeholder="write your reply.."
+	  <input name="new_reply"
+             type="text" 
+             class="form-control" 
+             placeholder="write your reply.."
 	  	required>
 
 	  <div class="input-group-append">
