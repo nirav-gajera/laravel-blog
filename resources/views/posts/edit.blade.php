@@ -3,4 +3,5 @@
 @section('content')
 
     @include('posts.partials.edit_post')
+    
 @endsection
